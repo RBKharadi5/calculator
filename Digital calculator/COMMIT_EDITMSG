@@ -1,0 +1,43 @@
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Date:      Fri Apr 18 00:45:41 2025 +0530
+#
+# HEAD detached at cf90a30
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .vscode/launch.json
+#	new file:   .vscode/settings.json
+#	new file:   .vscode/tasks.json
+#	new file:   addition.cpp
+#	new file:   addition.exe
+#	new file:   array.cpp
+#	new file:   countnumber.cpp
+#	new file:   countnumber.exe
+#	new file:   f.cpp
+#	new file:   f.exe
+#	new file:   factorial.cpp
+#	new file:   factorial.exe
+#	new file:   function.cpp
+#	new file:   function.exe
+#	new file:   lowercase.cpp
+#	new file:   lowercase.exe
+#	new file:   marge sort.cpp
+#	new file:   minnumber.exe
+#	new file:   odd-even.cpp
+#	new file:   pettern.cpp
+#	new file:   pettern.exe
+#	new file:   primenumber.cpp
+#	new file:   primenumber.exe
+#	new file:   prt.exe
+#	new file:   quicksort.cpp
+#	new file:   quicksort.exe
+#	new file:   threebro.cpp
+#	new file:   threebro.exe
+#	new file:   vector.cpp
+#	new file:   vector.exe
+#
